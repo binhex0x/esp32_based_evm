@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🗳️ ESP32-Based Electronic Voting Machine (EVM)
 
 A smart and secure **Electronic Voting Machine** designed as part of my **Diploma in Electronics Engineering** at **Government Polytechnic Ghaziabad**.  
