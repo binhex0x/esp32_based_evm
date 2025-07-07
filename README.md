@@ -1,10 +1,23 @@
 
-# 🗳️ ESP32-Based Electronic Voting Machine (EVM)
+
+<h2 align="center">ESP32-Based Electronic Voting Machine (EVM)</h2>
+
 
 A smart and secure **Electronic Voting Machine** designed as part of my **Diploma in Electronics Engineering** at **Government Polytechnic Ghaziabad**.  
 The system is built using an **ESP32 microcontroller**, a **1.8-inch TFT display**, and a **4×3 matrix keypad**, offering a modern, user-friendly, and tamper-resistant voting interface.
 
 ---
+
+<h1 align="center">Govt. Polytechnic Ghaziabad, UP</h1>
+
+<h2 align="center" style="color:#333;">
+  <span style="color:#e53935;">D</span>iploma in 
+  <span style="color:#e53935;">E</span>lectronics 
+  <span style="color:#e53935;">E</span>ngineering
+</h2>
+
+
+<h3 align="center">Session : 2024 - 25</h2>
 
 ## 🔧 Features
 
@@ -84,7 +97,11 @@ The system is built using an **ESP32 microcontroller**, a **1.8-inch TFT display
 > 🎓 *Academic Year: 2024–2025*
 
 ---
+## 👥 Team Members
 
+- **Yogesh Kumar**  
+- **Abhishek**  
+- **Dhananjay**
 
+---
 
-=======
