@@ -54,9 +54,16 @@ The system is built using an **ESP32 microcontroller**, a **1.8-inch TFT display
 
 ## 📷 Screenshots
 
-*(You can include UI screenshots and wiring diagrams here)*  
-📌 `images/ui-vote-screen.png`  
-📌 `images/circuit-diagram.png`
+<h3>🖼️ UI Screenshot</h3>
+<p align="center">
+  <img src="images/ui-vote-screen.png" alt="UI Screenshot" width="400"/>
+</p>
+
+<h3>🔌 Circuit Diagram</h3>
+<p align="center">
+  <img src="images/circuit_diagram.jpg" alt="Circuit Diagram" width="450"/>
+</p>
+
 
 ---
 
