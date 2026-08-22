@@ -99,7 +99,7 @@ The system is built using an **ESP32 microcontroller**, a **1.8-inch TFT display
 ---
 ## 👥 Team Members
 
-- **Yogesh Kumar**  
+- **Yogesh Kumar**  💎 {🥈 Silver Medalist : Awarded 2nd Rank in Electronics Engineering }
 - **Abhishek**  
 - **Dhananjay**
 
