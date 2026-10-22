@@ -97,11 +97,17 @@ The system is built using an **ESP32 microcontroller**, a **1.8-inch TFT display
 > 🎓 *Academic Year: 2024–2025*
 
 ---
-## 👥 Team Members
+## 👨‍💻 Project Developer
 
-- **Yogesh Kumar**  💎 {🥈 Silver Medalist : Awarded 2nd Rank in Electronics Engineering }
+**Yogesh Kumar**  💎 {🥈 Silver Medalist : Awarded 2nd Rank in Electronics Engineering }
+> Concept, Hardware, Software, Programming & System Integration
+
+---
+### 👥 Other Team Members
+
 - **Abhishek**  
 - **Dhananjay**
+> Project Support
 
 ---
 
