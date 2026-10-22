@@ -103,7 +103,7 @@ The system is built using an **ESP32 microcontroller**, a **1.8-inch TFT display
 > Concept, Hardware, Software, Programming & System Integration
 
 ---
-### 👥 Other Team Members
+## 👥 Other Team Members
 
 - **Abhishek**  
 - **Dhananjay**
